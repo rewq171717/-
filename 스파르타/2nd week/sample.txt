@@ -1,0 +1,6 @@
+myserver.com/users/signup
+
+GET, POST, PUT, PATCH, DELETE 
+
+myserver.com/users
+myserver.com/users/1/info
