@@ -1,6 +1,11 @@
-myserver.com/users/signup
+public static void(string []args){  
 
-GET, POST, PUT, PATCH, DELETE 
+class baby{
 
-myserver.com/users
-myserver.com/users/1/info
+int a=0;
+int b=0;
+
+
+
+}
+}
